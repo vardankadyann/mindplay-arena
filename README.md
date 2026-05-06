@@ -2,6 +2,10 @@
 
 MindPlay Arena is an interactive mini-game platform built using React, TypeScript, and Vite.
 
+## 🎮 About The Project
+
+MindPlay Arena is a browser-based mini-game platform designed to improve logical thinking, vocabulary, and quick decision-making through interactive games and quizzes. The project focuses on responsive UI, smooth user experience, and fast performance.
+
 ## 🚀 Features
 
 - Word Scramble
@@ -17,6 +21,12 @@ MindPlay Arena is an interactive mini-game platform built using React, TypeScrip
 - TypeScript
 - Vite
 - Tailwind CSS
+
+## 🌐 Live Demo
+
+## 🌐 Live Demo
+
+[Play MindPlay Arena]((https://mindplay-arena.vercel.app/))
 
 ## 📦 Installation
 
