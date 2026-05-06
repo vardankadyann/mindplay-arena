@@ -22,7 +22,6 @@ MindPlay Arena is a browser-based mini-game platform designed to improve logical
 - Vite
 - Tailwind CSS
 
-## 🌐 Live Demo
 
 ## 🌐 Live Demo
 
